@@ -1,0 +1,10 @@
+insert into DEPARTMENT (id, name) values (1, 'Бухгалтерия');
+insert into DEPARTMENT (id, name) values (2, 'Колл-центр');
+insert into DEPARTMENT (id, name) values (3, 'Отдел поддержки');
+insert into DEPARTMENT (id, name) values (4, 'Отдел продаж');
+insert into DEPARTMENT (id, name) values (5, 'Технический персонал');
+insert into DEPARTMENT (id, name) values (6, 'Дирекция');
+insert into DEPARTMENT (id, name) values (7, 'Столярный отдел');
+insert into DEPARTMENT (id, name) values (8, 'Пищеблок');
+insert into DEPARTMENT (id, name) values (9, 'Офис');
+insert into DEPARTMENT (id, name) values (10, 'Доставка');
